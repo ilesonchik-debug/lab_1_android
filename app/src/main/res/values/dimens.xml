@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Размеры изображения -->
+    <dimen name="avatar_size">150dp</dimen>
+
+    <!-- Отступы -->
+    <dimen name="card_padding">24dp</dimen>
+
+    <!-- Размеры текста -->
+    <dimen name="name_size">30sp</dimen>
+    <dimen name="normal_text_size">16sp</dimen>
+    <dimen name="contact_title_size">20sp</dimen>
+
+</resources>

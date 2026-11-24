@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Моя лаб визитка</string>
+
+    <string name="full_name">Баранов Алексей</string>
+    <string name="group_info">Android-разработчик</string>
+
+    <string name="contact_title">Контактная информация</string>
+    <string name="phone">Телефон: 89501677651</string>
+    <string name="telegram">Telegram: @ilesonchik-debug</string>
+    <string name="email">Email: pochtadlyavas778@gmail.com</string>
+
+    <string name="avatar_description">Фотография Алексея Баранова</string>
+</resources>
