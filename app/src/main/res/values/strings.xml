@@ -1,3 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">lab1</string>
+    <string name="app_name">My Lab Card</string>
+
+    <string name="full_name">Alexey Baranov</string>
+    <string name="group_info">Android Developer</string>
+
+    <string name="contact_title">Contact Information</string>
+    <string name="phone">Phone: 89501677651</string>
+    <string name="telegram">Telegram: @ilesonchik-debug</string>
+    <string name="email">Email: pochtadlyavas778@gmail.com</string>
+
+    <string name="avatar_description">Photo of Alexey Baranov</string>
 </resources>
